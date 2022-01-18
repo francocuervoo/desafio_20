@@ -1,0 +1,32 @@
+[
+    {
+      "title": "FS Item",
+      "price": 100,
+      "stock": 1,
+      "id": 6
+    },
+    {
+      "title": "FS Item",
+      "price": 200,
+      "stock": 5,
+      "id": 9
+    },
+    {
+      "title": "FS Item",
+      "price": 300,
+      "stock": 3,
+      "id": 10
+    },
+    {
+      "title": "FS Item",
+      "price": 400,
+      "stock": 4,
+      "id": 12
+    },
+    {
+      "title": "FS Item",
+      "price": 500,
+      "stock": 10,
+      "id": 12
+    }
+  ]

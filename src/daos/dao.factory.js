@@ -6,7 +6,7 @@ import SingletonDaoMongo from './singleton.dao.mongo.js';
 
 import { mongoConnect } from '../db.js';
 
-import { productsArray } from '../data/items.js';
+import { productsArray } from '../data/item.js';
 import { productModel } from '../models/product.model.js';
 const productsFile = './src/data/items.json';
 
